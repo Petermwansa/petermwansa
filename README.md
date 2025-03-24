@@ -1,5 +1,4 @@
-# 💫 About Me:
-## Hi there I am Peter <br><br><br>- 🔭 I’m currently working as web developer. I am a freelancer and I partner with brands to develop their web applications and softwares<br>- 🌱 I’m currently learning React native and I am having fun leanring it. Looking forward to building exciting cross-platform mobile apps<br>- 👯 I’m looking to collaborate on website and web applications developement projects <br>- 💬 If you have any questions on how we can work together you can write me to mwansapeter800@gmail.com <br>- 📫 You can reach me through my email provided above or through Instagram: https://www.instagram.com/peter_m_m/<br><br>
+Hi there I am Peter <br><br><br>- 🔭 I’m currently working as web developer. I am a freelancer and I partner with brands to develop their web applications and softwares<br>- 🌱 I’m currently learning React native and I am having fun leanring it. Looking forward to building exciting cross-platform mobile apps<br>- 👯 I’m looking to collaborate on website and web applications developement projects <br>- 💬 If you have any questions on how we can work together you can write me to mwansapeter800@gmail.com <br>- 📫 You can reach me through my email provided above or through Instagram: https://www.instagram.com/peter_m_m/<br><br>
 
 
 ## 🌐 Socials:
